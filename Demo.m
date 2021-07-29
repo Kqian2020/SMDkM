@@ -2,6 +2,7 @@
 % 
 %The MATLAB code of the paper "Self-dependence multi-label learning with double k for missing labels"
 %version 1.0
+%Contact: kqian2020@163.com or minfan@swpu.edu.cn
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear;clc;
