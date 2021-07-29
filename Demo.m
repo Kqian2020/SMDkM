@@ -7,7 +7,7 @@
 clear;clc;
 addpath(genpath('.'));
 %load data
-load('D:/DataMat/Flags.mat');
+load('Birds.mat');
 %% parameter
 modelParameter.lambda1          = 1;
 modelParameter.minLoss          = 10^-3;
