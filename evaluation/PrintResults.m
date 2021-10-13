@@ -1,5 +1,5 @@
 
-function PrintResults1(Result)
+function PrintResults(Result)
 fprintf('------------------------------------------------\n');
 fprintf('Evalucation Metric          Mean     Std\n');
 fprintf('-------------------------------------------------\n');
