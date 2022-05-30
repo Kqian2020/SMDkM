@@ -15,7 +15,7 @@ modelParameter.minLoss          = 10^-3;
 modelParameter.rho              = 2;
 modelParameter.maxIter          = 50;
 Num                             = 10;
-s = RandStream.create('mrg32k3a','seed',1);
+s = RandStream.create('mt19937ar','seed',1);
 RandStream.setGlobalStream(s);
 
 %% perpare data
