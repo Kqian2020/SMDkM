@@ -9,5 +9,5 @@ The MATLAB code of the paper "Self-dependence multi-label learning with double k
     volume		= {},  
     pages		= {1--38},  
     doi			= {10.1007/s10462-022-10279-1},  
-    url			= {https://doi.org/10.1007/s10462-022-10279-1}  
+    url			= {https://doi.org/10.1007/s10462-022-10279-1 }  
 }
