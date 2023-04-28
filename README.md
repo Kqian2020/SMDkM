@@ -1,7 +1,7 @@
 # SMDkM
 The MATLAB code of the paper "Self-dependence multi-label learning with double k for missing labels"
 ## Citation
-@article{Qian-2022-SMDkM,  
+@article{Qian-2023-SMDkM,  
     author		= {Kun Qian and Xue-Yang Min and Yusheng Cheng and Guojie Song and Fan Min},  
     title		= {Self-dependence multi-label learning with double $k$ for missing labelss},  
     journal		= {Artificial Intelligence Review},  
